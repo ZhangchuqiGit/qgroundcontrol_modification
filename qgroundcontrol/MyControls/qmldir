@@ -1,0 +1,6 @@
+Module MyControls
+
+MyCompass            1.0 MyCompass.qml
+MyAltimeter          1.0 MyAltimeter.qml
+MyVelocimeter        1.0 MyVelocimeter.qml
+MyButton             1.0 MyButton.qml
